@@ -98,3 +98,29 @@
                                                         .navbar-brand {
                                                             margin-right: 5%;
                                                         }
+                                                        
+                                                        .Logofooter {
+                                                            margin-right: 800%;
+                                                        }
+                                                        
+                                                        .tarjeta {
+                                                            margin-bottom: 5%;
+                                                            margin-top: 4%;
+                                                        }
+                                                        
+                                                        .candado {
+                                                            margin-bottom: 2%;
+                                                        }
+                                                        
+                                                        #featurette {
+                                                            margin-left: 5%;
+                                                        }
+                                                        
+                                                        #nos {
+                                                            margin-left: 5%;
+                                                            color: red;
+                                                        }
+                                                        
+                                                        .featurette-heading {
+                                                            color: red;
+                                                        }
